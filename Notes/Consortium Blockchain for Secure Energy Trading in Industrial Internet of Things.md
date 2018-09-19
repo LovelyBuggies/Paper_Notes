@@ -36,10 +36,9 @@
 - 为什么对用户满意函数求关于贷款数额的偏导？对银行满意函数求关于贷款利率的偏导？（SE模型问题）
 
 
-
 ### 未来工作
 
-- 看一下文章提到的P2P能源交易场景，对比出用区块链作为底层架构的好处，参考[Enabling Localized Peer-to-Peer Electricity Trading Among Plug-in Hybrid Electric Vehicles Using Consortium Blockchains](https://ieeexplore.ieee.org/document/7935397/?part=1)。
+- 看一下文章提到的P2P能源交易场景[参考](https://ieeexplore.ieee.org/document/7518712/?part=1)，对比出用区块链作为底层架构的好处[参考](https://ieeexplore.ieee.org/document/7935397/?part=1)。
 - 研究一下Stackelberg Model。
   
    
