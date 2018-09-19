@@ -3,7 +3,7 @@
 
 ### 概述
 
-这篇文章通过构建**Energy Blockchain区块链**，解决了工业物联网IIOT中点对点能源交易场景下的**安全性和隐私保护**问题；通过建立一个**基于信用的支付模式**和**基于Stackleberg模型的优化定价策略**，解决了交易确认延迟的问题。安全性分析表明文章的方法可以**安全**并**高效**地支持能源区块链中的交易。
+这篇文章通过构建**Energy Blockchain区块链**，解决了工业物联网IIOT中点对点能源交易场景下的**安全性和隐私保护**问题；通过建立一个**基于信用的支付模式**和**基于Stackelberg模型的优化定价策略**，解决了交易确认延迟的问题。安全性分析表明文章的方法可以**安全**并**高效**地支持能源区块链中的交易。
 
 
 ### 关键点
@@ -19,6 +19,9 @@
   - proof-of-flow：奖励贡献最多的卖家；
   - proof-of-work：奖励挖矿者（挖矿者是EAGs，只有一少部分节点能当EAG，EAGs数量随交易规模扩大而增加）。
 - 贷款运作流程：钱不够，申请贷；审核完，拿token；付token，买能源；买完后，重新签；若贷款，有利率；还不上，有惩罚；跑路了，必拉黑。
+- SE平衡：关于贷款数额以及贷款利率上，文章用一些公式说明了关于租赁者和银行的SE平衡存在。求得SE平衡点的算法如图：
+
+![SE iteration](https://i.postimg.cc/vZ7kgpNF/Consortium_Blockchain_for_Secure_Energy_Trading_in_Industrial_In.png)Stackelberg
 
   
 ### 想法/问题
@@ -29,12 +32,15 @@
 - 贷款时为什么要再建一个钱包，直接由贷款人提供一个钱包地址不就好了？
 - 公共wallet和银行给的token的关系是什么？
 - 贷款这个方面还是写的很详细的，情况考虑较为周到。
+- 关于Stackelberg的公式推导比较难理解。
+- 为什么对用户满意函数求关于贷款数额的偏导？对银行满意函数求关于贷款利率的偏导？（SE模型问题）
 
 
 
 ### 未来工作
 
 - 看一下文章提到的P2P能源交易场景，对比出用区块链作为底层架构的好处，参考[Enabling Localized Peer-to-Peer Electricity Trading Among Plug-in Hybrid Electric Vehicles Using Consortium Blockchains](https://ieeexplore.ieee.org/document/7935397/?part=1)。
+- 研究一下Stackelberg Model。
   
    
 
