@@ -56,7 +56,7 @@
 
 **notes文件夹**用来存放读书笔记，读书笔记的格式为：**paper-title.md**。
 
-读书笔记的模块有：Keynotes, Questions&Comments 和 Future Reading（板块因论文重要性而变）。
+读书笔记的模块有：Overview, Keynotes, Questions&Comments 和 Future Reading（板块因论文重要性而变）。
 
 ### assets
 
