@@ -14,7 +14,7 @@ Dependable Demand Response Management in the Smart Grid: A Stackelberg Game Appr
 
 A Survey on Demand Response Programs in Smart Grids: Pricing Methods and Optimization Algorithms -- [[IEEE](https://ieeexplore.ieee.org/document/6861959/)]
 
-*Algorithmic Game Theory* -- [[Book](https://books.google.com.hk/books?hl=en&lr=&id=YCu2alSw0w8C&oi=fnd&pg=PR5&dq=algorithmic+game+theory&ots=aNANyRplCa&sig=EdVKqOuG7HarnhDz81j4QQUqDr8&redir_esc=y#v=onepage&q=algorithmic%20game%20theory&f=false)]
+*Algorithmic Game Theory* Chap.13 -- [[Book](https://books.google.com.hk/books?hl=en&lr=&id=YCu2alSw0w8C&oi=fnd&pg=PR5&dq=algorithmic+game+theory&ots=aNANyRplCa&sig=EdVKqOuG7HarnhDz81j4QQUqDr8&redir_esc=y#v=onepage&q=algorithmic%20game%20theory&f=false)]
 
 
 
