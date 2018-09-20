@@ -10,6 +10,8 @@
 
 - 双边拍卖的算法比较重要。
 
+![Double Auction](https://i.postimg.cc/m2h4wcRZ/Enabling_Localized_Peer-to-_Peer_Electricity_Trading_Among_Plug-i.png)
+
 
 ### 想法/问题
 
