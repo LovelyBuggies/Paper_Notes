@@ -26,7 +26,7 @@
 - IOT的关键特性：感知能力、异构性、多寻址模式、高可靠性、自适应能力、安全环境。
 - IOT架构如图：
 
-![](https://postimg.cc/XB4DPmng)
+![](https://i.postimg.cc/fy9nVQF1/Data_Collection_and_Wireless_Communication_in_Io_T_Using_Economic.png)
 
 - IOT中可以通过定价理论优化的交易（p.p.3右下）
 
