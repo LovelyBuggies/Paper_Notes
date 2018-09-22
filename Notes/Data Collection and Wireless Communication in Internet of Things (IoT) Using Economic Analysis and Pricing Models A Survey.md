@@ -34,7 +34,7 @@
 
 这个章节指引了我们如何给IOT系统中的资源进行定价，outline如下图，**有十分重要的参考价值**。
 
-![]()
+![](https://i.postimg.cc/Hnrv1HDJ/Data_Collection_and_Wireless_Communication_in_Io_T_Using_Economic.png)
 
 #### 根据经济学概念进行定价
 
