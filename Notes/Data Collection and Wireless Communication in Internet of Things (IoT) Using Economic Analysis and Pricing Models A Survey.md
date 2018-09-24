@@ -20,7 +20,6 @@
 - **这篇论文需要详细参考的部分：**
 	- **Section2主要是介绍IOT服务的通用架构；**
 	- **Section3主要是经济定价理论的基础；**
-	- **Section9讨论了定价模型在M2M通信中资源分配的应用。**
 
 #### Section II —— IOT服务架构
 
@@ -82,12 +81,11 @@
 
 - 几种定价机制及关系要理清，结构在关键点的“Section III —— IOT中定价理论简述”部分。
 - 拍卖算法中，是否封闭式需要搞清楚。
-- **无线感知网络和群体感知网络的区别**对应用算法有很大影响。
 
 
 ### 未来工作
 
-   
+- 双边拍卖算法及应用，重新看一下[Enabling Localized Peer-to-Peer Electricity Trading Among Plug-in Hybrid Electric Vehicles Using Consortium Blockchains](https://ieeexplore.ieee.org/document/7935397/?part=1) 这个论文。
 
 
 
