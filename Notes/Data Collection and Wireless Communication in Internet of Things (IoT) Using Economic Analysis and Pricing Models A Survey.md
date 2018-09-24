@@ -1,6 +1,5 @@
 ## Data Collection and Wireless Communication in Internet of Things (IoT) Using Economic Analysis and Pricing Models: A Surve
 
-[TOC]
 
 ### 概述
 
