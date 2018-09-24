@@ -84,7 +84,7 @@
 
 ### 未来工作
 
-- 双边拍卖算法及应用，重新看一下[Enabling Localized Peer-to-Peer Electricity Trading Among Plug-in Hybrid Electric Vehicles Using Consortium Blockchains](https://ieeexplore.ieee.org/document/7935397/?part=1) 这个论文。
+- 双边拍卖算法及应用，可以重新看一下[Enabling Localized Peer-to-Peer Electricity Trading Among Plug-in Hybrid Electric Vehicles Using Consortium Blockchains](https://ieeexplore.ieee.org/document/7935397/?part=1) 这个论文。
 
 
 
