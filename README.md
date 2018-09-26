@@ -62,11 +62,11 @@
 
 **assets文件夹**存储了论文用到的图片，格式为：**paper-title(num).png**。
 
-### index.md
+### Notes/README.md
 
 按日期索引文件。
 
-### ～ category.md （日后建立）
+### ～ Notes/category.md （日后建立）
 
 按种类索引文件。
 
