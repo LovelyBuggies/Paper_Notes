@@ -15,10 +15,7 @@
 
 ### 想法/问题
 
-这个论文作为[Consortium Blockchain for Secure Energy Trading in Industrial Internet of Things](http://folk.uio.no/yanzhang/IEEETIIBlockchain2018.pdf)的前序，架构层基本上与它相同（除了贷款银行），不同之处在于这篇论文用双边拍卖的算法对市场中的数据进行了定价。
-
-#### 区块链问题
-
+- 这个论文作为[Consortium Blockchain for Secure Energy Trading in Industrial Internet of Things](http://folk.uio.no/yanzhang/IEEETIIBlockchain2018.pdf)的前序，架构层基本上与它相同（除了贷款银行），不同之处在于这篇论文用双边拍卖的算法对市场中的数据进行了定价。
 - 为什么卖家PHEV要从LAGs内存池最后一个区块来验证交易？它又是怎么验证的？
 - 交易过程中block chain的变化在文中比较含糊。比如：
   - 1. 买家给钱之后，卖家要检查一下LAG中的区块链确认收钱；
@@ -26,10 +23,6 @@
   - 既然是审计之后构建区块，那么卖家检查的区块是什么？难道有两条链？
 - 会不会存在“倒卖能源”赚取差价的问题？
 - 因为是局部市场，会不会存在囤积能源抬价的问题？
-
-#### 定价问题
-
-（双边多对多拍卖——未完待续。。。）
 
 
 ### 未来工作
