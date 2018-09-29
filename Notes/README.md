@@ -9,7 +9,7 @@ Using Consortium Blockchains -- [[IEEE](https://ieeexplore.ieee.org/abstract/doc
 
 Data Collection and Wireless Communication in Internet of Things (IoT) Using Economic Analysis and Pricing Models: A Survey -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/7496795/)] [[Article](https://arxiv.org/pdf/1608.03475.pdf)] 
 
-Profit Maximization Mechanism and Data Management for Data Analytics Services -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/8326475/)]
+Profit Maximization Mechanism and Data Management for Data Analytics Services -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/8326475/)] [[Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8326475)]
 
 Dependable Demand Response Management in the Smart Grid: A Stackelberg Game Approach -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/6464552/)] 
 
