@@ -11,7 +11,7 @@ Data Collection and Wireless Communication in Internet of Things (IoT) Using Eco
 
 Profit Maximization Mechanism and Data Management for Data Analytics Services -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/8326475/)] [[Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8326475)]
 
-Dependable Demand Response Management in the Smart Grid: A Stackelberg Game Approach -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/6464552/)] 
+Dependable Demand Response Management in the Smart Grid: A Stackelberg Game Approach -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/6464552/)] [[Article](https://folk.uio.no/yanzhang/IEEETSGMar2013.pdf)]
 
 A Survey on Demand Response Programs in Smart Grids: Pricing Methods and Optimization Algorithms -- [[IEEE](https://ieeexplore.ieee.org/document/6861959/)]
 
