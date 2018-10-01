@@ -20,7 +20,8 @@
 #### Stackleberge博弈部分
 
 - 理论基础：[拉格朗日乘数法](https://en.wikipedia.org/wiki/Lagrange_multiplier)求解了凸优化问题。
-- 
+- 用户角度的效用最优：
+- TODO list（解释公式含义）
 
 
 
