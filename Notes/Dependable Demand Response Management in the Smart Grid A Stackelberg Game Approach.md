@@ -15,7 +15,7 @@
 	- 终端用户（End—Users）：可以通过交流设备与公共事业公司交流，告知其能源需求量。
 - **系统模型中的UCs遵循非完全竞争市场**，也就是说市场中的UCs可以根据其用能源量来规定能源的单位价格。（p.p.112 右上）
 - Stackleberge博弈：
-	- 从用户角度：利用[拉格朗日乘数法](https://en.wikipedia.org/wiki/Lagrange_multiplier)，分别讨论了四种情况（对于两个UCs）；
+	- 从用户角度：利用[拉格朗日乘数法](https://en.wikipedia.org/wiki/Lagrange_multiplier)，求解了一个凸优化问题，分别讨论了四种情况（对于两个UCs），得到了最优对于用户每个UC的最优获取量；
 	- 从UCs角度：
 
 
