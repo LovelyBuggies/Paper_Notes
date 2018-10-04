@@ -15,6 +15,8 @@ Profit Maximization Mechanism and Data Management for Data Analytics Services --
 
 Dependable Demand Response Management in the Smart Grid: A Stackelberg Game Approach -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/6464552/)] [[Article](https://folk.uio.no/yanzhang/IEEETSGMar2013.pdf)]
 
+Incentive Scheduling for Cooperative Relay in WWAN/WLAN Two-Hop-Relay Network -- [[Article](http://wmnlab.ee.ntu.edu.tw/lab/publication/Conference/[C]2005_WCNC%2005.Incentive%20Scheduling%20for%20Cooperative%20Relay%20in%20WWAN&WLAN%20Two-Hop-Relay%20Network.pdf)]
+
 A Survey on Demand Response Programs in Smart Grids: Pricing Methods and Optimization Algorithms -- [[IEEE](https://ieeexplore.ieee.org/document/6861959/)]
 
 *Algorithmic Game Theory* Chap.13 -- [[Book](https://books.google.com.hk/books?hl=en&lr=&id=YCu2alSw0w8C&oi=fnd&pg=PR5&dq=algorithmic+game+theory&ots=aNANyRplCa&sig=EdVKqOuG7HarnhDz81j4QQUqDr8&redir_esc=y#v=onepage&q=algorithmic%20game%20theory&f=false)]
