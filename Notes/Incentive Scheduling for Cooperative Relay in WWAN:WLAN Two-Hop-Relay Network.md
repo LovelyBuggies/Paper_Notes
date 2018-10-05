@@ -16,7 +16,9 @@
 - Section IV主要是介绍了三种调度方式下的合作或者非合作机制的实验结果，结果表明采用双跳合作机制**并没有使各个用户的吞吐量获得显著提升**。
 - 设置的激励政策：
 
+
 ![](https://i.postimg.cc/XvvB6nvc/Incentive_Scheduling_for_Cooperative_Relay_in_WWAN_WLAN_Two-_Hop-.png)
+
 
 - 会存在恶意节点（比如宣称自己要当Relay但是丢终端用户的包），但恶意行为可以被察觉到。
 - 实验结果表明：
