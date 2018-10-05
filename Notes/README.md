@@ -17,6 +17,10 @@ Dependable Demand Response Management in the Smart Grid: A Stackelberg Game Appr
 
 Incentive Scheduling for Cooperative Relay in WWAN/WLAN Two-Hop-Relay Network -- [[Article](http://wmnlab.ee.ntu.edu.tw/lab/publication/Conference/[C]2005_WCNC%2005.Incentive%20Scheduling%20for%20Cooperative%20Relay%20in%20WWAN&WLAN%20Two-Hop-Relay%20Network.pdf)]
 
+## TODO List
+
+Neural Network Credit Scoring Models -- [[Science Direct](https://www.sciencedirect.com/science/article/pii/S095741741101342X)] [[Article](https://www.researchgate.net/profile/David_West6/publication/223425357_Neural_Network_Credit_Scoring_Models/links/5ae9c71c45851588dd826629/Neural-Network-Credit-Scoring-Models.pdf)]
+
 A Survey on Demand Response Programs in Smart Grids: Pricing Methods and Optimization Algorithms -- [[IEEE](https://ieeexplore.ieee.org/document/6861959/)]
 
 *Algorithmic Game Theory* Chap.13 -- [[Book](https://books.google.com.hk/books?hl=en&lr=&id=YCu2alSw0w8C&oi=fnd&pg=PR5&dq=algorithmic+game+theory&ots=aNANyRplCa&sig=EdVKqOuG7HarnhDz81j4QQUqDr8&redir_esc=y#v=onepage&q=algorithmic%20game%20theory&f=false)]
