@@ -18,13 +18,15 @@
 
 5. 实验结果讨论
 
-
+![](https://i.postimg.cc/Z5SqqcKq/Neural_network_credit_scoring_models1.png)
 
 6. 结论
 	
 	信用决定变量例举：
 	
+	![](https://i.postimg.cc/nLVc4hmb/Neural_network_credit_scoring_models2.png)
 	
+	![](https://i.postimg.cc/52S2QC6S/Neural_network_credit_scoring_models3.png)
 
 
 ### 想法/问题
