@@ -19,9 +19,10 @@ Incentive Scheduling for Cooperative Relay in WWAN/WLAN Two-Hop-Relay Network --
 
 A comparison of neural networks and linear scoring models in the credit union environment -- [[Science Direct](https://www.sciencedirect.com/science/article/pii/0377221795002464)] [[Article](https://ac.els-cdn.com/0377221795002464/1-s2.0-0377221795002464-main.pdf?_tid=2eeeeb9a-0ffc-4151-b3cd-a0774cccd667&acdnat=1538784720_48c9e95d80b671e839bb9c370dfd7cfc)]
 
-## TODO List
-
 Neural Network Credit Scoring Models -- [[Science Direct](https://www.sciencedirect.com/science/article/pii/S095741741101342X)] [[Article](https://www.researchgate.net/profile/David_West6/publication/223425357_Neural_Network_Credit_Scoring_Models/links/5ae9c71c45851588dd826629/Neural-Network-Credit-Scoring-Models.pdf)]
+
+
+## TODO List
 
 A Survey on Demand Response Programs in Smart Grids: Pricing Methods and Optimization Algorithms -- [[IEEE](https://ieeexplore.ieee.org/document/6861959/)]
 
