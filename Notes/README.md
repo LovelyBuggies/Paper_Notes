@@ -17,7 +17,7 @@ Dependable Demand Response Management in the Smart Grid: A Stackelberg Game Appr
 
 Incentive Scheduling for Cooperative Relay in WWAN/WLAN Two-Hop-Relay Network -- [[Article](http://wmnlab.ee.ntu.edu.tw/lab/publication/Conference/[C]2005_WCNC%2005.Incentive%20Scheduling%20for%20Cooperative%20Relay%20in%20WWAN&WLAN%20Two-Hop-Relay%20Network.pdf)]
 
-A comparison of neural networks and linear scoring models in the credit union environment -- [Science Direct](https://www.sciencedirect.com/science/article/pii/0377221795002464) [[Article](https://ac.els-cdn.com/0377221795002464/1-s2.0-0377221795002464-main.pdf?_tid=2eeeeb9a-0ffc-4151-b3cd-a0774cccd667&acdnat=1538784720_48c9e95d80b671e839bb9c370dfd7cfc)]
+A comparison of neural networks and linear scoring models in the credit union environment -- [[Science Direct](https://www.sciencedirect.com/science/article/pii/0377221795002464)] [[Article](https://ac.els-cdn.com/0377221795002464/1-s2.0-0377221795002464-main.pdf?_tid=2eeeeb9a-0ffc-4151-b3cd-a0774cccd667&acdnat=1538784720_48c9e95d80b671e839bb9c370dfd7cfc)]
 
 ## TODO List
 
