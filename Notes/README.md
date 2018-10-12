@@ -22,6 +22,8 @@ A comparison of neural networks and linear scoring models in the credit union en
 
 Neural Network Credit Scoring Models -- [[Science Direct](https://www.sciencedirect.com/science/article/pii/S095741741101342X)] [[Article](https://www.researchgate.net/profile/David_West6/publication/223425357_Neural_Network_Credit_Scoring_Models/links/5ae9c71c45851588dd826629/Neural-Network-Credit-Scoring-Models.pdf)]
 
+Energy replenishment using renewable and traditional energy resources for sustainable wireless sensor networks: A review -- [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1364032115001094)] [[Article](https://ac.els-cdn.com/S1364032115001094/1-s2.0-S1364032115001094-main.pdf?_tid=1d217019-02fd-4f93-bc06-7708f0947d2e&acdnat=1539251686_4a0cd9c14089d675de51ebbb53b4e9cf)]
+
 
 ## TODO List
 
