@@ -11,6 +11,7 @@ Data Collection and Wireless Communication in Internet of Things (IoT) Using Eco
 
 Profit Maximization Mechanism and Data Management for Data Analytics Services -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/8326475/)] [[Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8326475)]
 
+
 ## 2018-10
 
 Dependable Demand Response Management in the Smart Grid: A Stackelberg Game Approach -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/6464552/)] [[Article](https://folk.uio.no/yanzhang/IEEETSGMar2013.pdf)]
@@ -23,6 +24,8 @@ Neural Network Credit Scoring Models -- [[Science Direct](https://www.sciencedir
 
 
 ## TODO List
+
+Internet of Things in Industries: A Survey -- [[IEEE](https://ieeexplore.ieee.org/document/6714496)] [[Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714496&tag=1)]
 
 A Survey on Demand Response Programs in Smart Grids: Pricing Methods and Optimization Algorithms -- [[IEEE](https://ieeexplore.ieee.org/document/6861959/)]
 
