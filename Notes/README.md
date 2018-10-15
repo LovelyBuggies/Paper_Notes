@@ -24,6 +24,8 @@ Neural Network Credit Scoring Models -- [[Science Direct](https://www.sciencedir
 
 Energy replenishment using renewable and traditional energy resources for sustainable wireless sensor networks: A review -- [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1364032115001094)] [[Article](https://ac.els-cdn.com/S1364032115001094/1-s2.0-S1364032115001094-main.pdf?_tid=1d217019-02fd-4f93-bc06-7708f0947d2e&acdnat=1539251686_4a0cd9c14089d675de51ebbb53b4e9cf)]
 
+Traffic and QoS Management in Wireless Multimedia Network pp 201-265 Multihop Wireless Networks -- [[Springer Link](https://link.springer.com/chapter/10.1007%2F978-0-387-85573-8_5)] [[Article](https://s3.amazonaws.com/academia.edu.documents/40292284/Multihop_Wireless_Networks20151123-4913-18yxdl0.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1539485598&Signature=IC7oRlKYpx4QTYBmfrS8dRbdcGg%3D&response-content-disposition=inline%3B%20filename%3DMultihop_Wireless_Networks.pdf)]
+
 Optimal Routing, Link Scheduling and Power Control in Multi-hop Wireless Networks -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/1208720/)] [[Article](https://pdfs.semanticscholar.org/e80f/2f813ca707926dbc1955b741747b0dbf88f3.pdf)]
 
 
