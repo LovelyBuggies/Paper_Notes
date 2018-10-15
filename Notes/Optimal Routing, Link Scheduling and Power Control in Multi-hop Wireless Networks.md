@@ -1,11 +1,8 @@
-## Traffic and QoS Management in Wireless Multimedia Network pp 201-265 Multihop Wireless Networks
+## Optimal Routing, Link Scheduling and Power Control in Multi-hop Wireless Networks
 
 
 ### 概述
 
-本文介绍了多跳无线网络的**基本概念和特性**，同时提出了对普通无线网络**路由和传输协议**的改进，最后描述了几个**通用场景**。
-
-具体描述看我的[博客](https://lovelybuggies.github.io/2018/10/12/Ad-Hoc%E6%A8%A1%E5%BC%8F/)或者它的[脚本](https://github.com/LovelyBuggies/LovelyBuggies.github.io/blob/master/_posts/2018-10-15-Ad-Hoc%E6%A8%A1%E5%BC%8F.md)。
 
 ### 关键点
 
