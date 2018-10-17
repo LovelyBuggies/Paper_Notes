@@ -30,17 +30,24 @@
 
 #### Network Model
 
-- 网络模型
-
 ![](https://ws3.sinaimg.cn/large/006tNbRwgy1fwb1qtzpc9j31ki18k14f.jpg)
+
+#### Enable Tech & App
+
+- 技术：
+  - 无线技术
+  - 路由技术
+- 解决问题
+  - IoV 激励
+  - IoV 维持
 
 
 
 ### 想法/问题
 
-
-
-
+- 这个文章对IoV 系统提出了一个很好的综述
+- **模型部分可以作为我论文的参考**
+- 但是使能技术方面的知识涉及到通信技术和路由协议，暂时不是研究的重点
 
 
 
