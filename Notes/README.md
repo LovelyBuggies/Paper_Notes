@@ -28,6 +28,8 @@ Traffic and QoS Management in Wireless Multimedia Network pp 201-265 Multihop Wi
 
 Optimal Routing, Link Scheduling and Power Control in Multi-hop Wireless Networks -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/1208720/)][[Article](https://pdfs.semanticscholar.org/e80f/2f813ca707926dbc1955b741747b0dbf88f3.pdf)]
 
+An Overview of Internet of Vehicles -- [[Article](https://www.researchgate.net/profile/Shangguang_Wang/publication/273394866_An_Overview_of_Internet_of_Vehicles/links/55d6926908ae9d65948be3c8/An-Overview-of-Internet-of-Vehicles.pdf)]
+
 
 ## TODO List
 
