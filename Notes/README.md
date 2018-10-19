@@ -30,7 +30,9 @@ Optimal Routing, Link Scheduling and Power Control in Multi-hop Wireless Network
 
 An Overview of Internet of Vehicles -- [[Article](https://www.researchgate.net/profile/Shangguang_Wang/publication/273394866_An_Overview_of_Internet_of_Vehicles/links/55d6926908ae9d65948be3c8/An-Overview-of-Internet-of-Vehicles.pdf)]
 
-“ Proof-of-Work ” Proves Not to Work version 0.2 -- [[Semantic Scholar](https://www.semanticscholar.org/paper/%E2%80%9C-Proof-of-Work-%E2%80%9D-Proves-Not-to-Work-version-0-.-2-Laurie-Clayton/7a58abc92dbe41c9e5b3c7b0a358ab9096880f25)] [[Article](https://pdfs.semanticscholar.org/e1d0/013c6f12c8f7414110babd8d3f952cbc0305.pdf?_ga=2.170908839.607070950.1539830458-435134776.1539830458)]
+“ Proof-of-Work ” Proves Not to Work version 0.2 -- [[Semantic Scholar](https://www.semanticscholar.org/paper/%E2%80%9C-Proof-of-Work-%E2%80%9D-Proves-Not-to-Work-version-0-.-2-Laurie-Clayton/7a58abc92dbe41c9e5b3c7b0a358ab9096880f25)][[Article](https://pdfs.semanticscholar.org/e1d0/013c6f12c8f7414110babd8d3f952cbc0305.pdf?_ga=2.170908839.607070950.1539830458-435134776.1539830458)]
+
+Majority Is Not Enough: Bitcoin Mining Is Vulnerable -- [[Arxiv](https://arxiv.org/pdf/1311.0243.pdf%7C)]
 
 
 ## TODO List
