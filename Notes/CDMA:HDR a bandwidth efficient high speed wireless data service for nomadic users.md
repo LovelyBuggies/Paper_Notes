@@ -1,4 +1,4 @@
-## Profit Maximization Mechanism and Data Management for Data Analytics Services
+## CDMA/HDR: a bandwidth efficient high speed wireless data service for nomadic users
 
 
 ### 概述
@@ -34,7 +34,7 @@
 ### 未来工作
 
 - 深度探索一下贝叶斯数据拍卖算法是如何找到最优数据定价和原始数据购买量的，以及如何找到最优数据更新速率。（详细探究一下公式意义）。
-   
+  
 
 
 
