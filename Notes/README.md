@@ -34,6 +34,8 @@ An Overview of Internet of Vehicles -- [[Article](https://www.researchgate.net/p
 
 Majority Is Not Enough: Bitcoin Mining Is Vulnerable -- [[Arxiv](https://arxiv.org/pdf/1311.0243.pdf%7C)]
 
+CDMA/HDR: a bandwidth efficient high speed wireless data service for nomadic users -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/852034)][[Article](http://cs-www.cs.yale.edu/homes/yry/readings/wireless/wireless_readings/hdr_qualcomm.pdf)]
+
 
 ## TODO List
 
