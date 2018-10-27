@@ -37,13 +37,17 @@
   - Channel Measurement
   - Channel Control
   - Interference suppression and mitigation
-- 不平等延时
+- 不平等延时用来提升系统的吞吐量：
+  - 根据信噪（SNR）水平分成N类；
+  - 对于每一类数据传输速率为![](https://latex.codecogs.com/gif.latex?R_n)，频率为![](https://latex.codecogs.com/gif.latex?P_n)：
+  - 情况1:槽均匀分配，平均吞吐量![](https://latex.codecogs.com/gif.latex?R_{av}=\sum\limits_{n=1}^{N}P_nR_n)；
+  - 情况2:想让大伙儿延迟差不多，每个用户被分配与它的速率成反比的槽数![](https://latex.codecogs.com/gif.latex?F_n=\frac{k}{R_n})，![](https://latex.codecogs.com/gif.latex?R_{av}^{'}=R_{av}=\frac{\sum\limits_{n=1}^{N}P_nR_nF_n}{\sum\limits_{n=1}^{N}P_nF_n})
+  - 情况3:保证公平、保证吞吐量：![](https://ws2.sinaimg.cn/large/006tNbRwgy1fwmt2hfr02j30uy0a8q3u.jpg)
 
 
 ### 想法/问题
 
-
-### 未来工作
+- 讲的不是很清楚啊，尤其是吞吐量的那部分。
 
 
 
