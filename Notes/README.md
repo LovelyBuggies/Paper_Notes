@@ -34,14 +34,20 @@ An Overview of Internet of Vehicles -- [[Article](https://www.researchgate.net/p
 
 Majority Is Not Enough: Bitcoin Mining Is Vulnerable -- [[Arxiv](https://arxiv.org/pdf/1311.0243.pdf%7C)]
 
+
+## 2018-11
+
 CDMA/HDR: a bandwidth efficient high speed wireless data service for nomadic users -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/852034)][[Article](http://cs-www.cs.yale.edu/homes/yry/readings/wireless/wireless_readings/hdr_qualcomm.pdf)]
 
 Bandwidth allocation in ad hoc networks: a price-based approach -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/1208917)]
 
 
+## 2018-12
+
+
 ## TODO List
 
-Internet of Things in Industries: A Survey -- [[IEEE](https://ieeexplore.ieee.org/document/6714496)] [[Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714496&tag=1)]
+Internet of Things in Industries: A Survey -- [[IEEE](https://ieeexplore.ieee.org/document/6714496)][[Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714496&tag=1)]
 
 A Survey on Demand Response Programs in Smart Grids: Pricing Methods and Optimization Algorithms -- [[IEEE](https://ieeexplore.ieee.org/document/6861959/)]
 
