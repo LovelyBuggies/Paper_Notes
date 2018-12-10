@@ -41,8 +41,9 @@ CDMA/HDR: a bandwidth efficient high speed wireless data service for nomadic use
 
 Bandwidth allocation in ad hoc networks: a price-based approach -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/1208917)]
 
-
 ## 2018-12
+
+Formal Design and Analysis of a Gear Controller an Industrial Case Study using UPPAAL -- [[SpringerLink]](https://link.springer.com/chapter/10.1007/BFb0054178) [[Article]](https://link.springer.com/content/pdf/10.1007/BFb0054178.pdf)
 
 
 ## TODO List
