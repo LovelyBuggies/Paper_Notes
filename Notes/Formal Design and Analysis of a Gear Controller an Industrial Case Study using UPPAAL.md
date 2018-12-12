@@ -63,7 +63,7 @@ UPPAAL kit 的应用实例，实现一个档位控制器的正式建模。
     - 正常转矩
     - 零转矩
     - 同步速度
-- **要求**
+- **要求**（如图）
   - 性能要求：时间限制
     - 正常情况下1s内换档
     - 所有情况1.5s内换档
@@ -72,16 +72,23 @@ UPPAAL kit 的应用实例，实现一个档位控制器的正式建模。
     - 离合器在改变转矩情况下关闭
     - 改变引擎时，齿轮箱设置档位
   - 功能
+  - 错误检测
+  - ![](https://ws1.sinaimg.cn/large/006tNbRwly1fy3skqsai0j30uw0bcach.jpg)
 
 
 
-### 想法/问题
+#### Section 5
 
-- 
-
-
+每个部分的正式设计
 
 
 
+#### Section 6
 
+把上面的要求总结成了十六个验证公式
 
+![](https://ws1.sinaimg.cn/large/006tNbRwgy1fy3snnehmjj31b80u0tfo.jpg)![](https://ws4.sinaimg.cn/large/006tNbRwgy1fy3snvcp26j31a008o75n.jpg)
+
+#### Conclusion
+
+吹水的
