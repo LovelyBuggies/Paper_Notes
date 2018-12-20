@@ -28,11 +28,11 @@ Energy replenishment using renewable and traditional energy resources for sustai
 
 Traffic and QoS Management in Wireless Multimedia Network pp 201-265 Multihop Wireless Networks -- [[Springer Link]](https://link.springer.com/chapter/10.1007%2F978-0-387-85573-8_5) [[Article]](https://s3.amazonaws.com/academia.edu.documents/40292284/Multihop_Wireless_Networks20151123-4913-18yxdl0.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1539485598&Signature=IC7oRlKYpx4QTYBmfrS8dRbdcGg%3D&response-content-disposition=inline%3B%20filename%3DMultihop_Wireless_Networks.pdf)
 
-Optimal Routing, Link Scheduling and Power Control in Multi-hop Wireless Networks -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/1208720/)[[Article]](https://pdfs.semanticscholar.org/e80f/2f813ca707926dbc1955b741747b0dbf88f3.pdf)
+Optimal Routing, Link Scheduling and Power Control in Multi-hop Wireless Networks -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/1208720/] [[Article]](https://pdfs.semanticscholar.org/e80f/2f813ca707926dbc1955b741747b0dbf88f3.pdf)
 
 An Overview of Internet of Vehicles -- [[Article]](https://www.researchgate.net/profile/Shangguang_Wang/publication/273394866_An_Overview_of_Internet_of_Vehicles/links/55d6926908ae9d65948be3c8/An-Overview-of-Internet-of-Vehicles.pdf)
 
-“ Proof-of-Work ” Proves Not to Work version 0.2 -- [[Semantic Scholar]](https://www.semanticscholar.org/paper/%E2%80%9C-Proof-of-Work-%E2%80%9D-Proves-Not-to-Work-version-0-.-2-Laurie-Clayton/7a58abc92dbe41c9e5b3c7b0a358ab9096880f25)[[Article]](https://pdfs.semanticscholar.org/e1d0/013c6f12c8f7414110babd8d3f952cbc0305.pdf?_ga=2.170908839.607070950.1539830458-435134776.1539830458)
+“ Proof-of-Work ” Proves Not to Work version 0.2 -- [[Semantic Scholar]](https://www.semanticscholar.org/paper/%E2%80%9C-Proof-of-Work-%E2%80%9D-Proves-Not-to-Work-version-0-.-2-Laurie-Clayton/7a58abc92dbe41c9e5b3c7b0a358ab9096880f25) [[Article]](https://pdfs.semanticscholar.org/e1d0/013c6f12c8f7414110babd8d3f952cbc0305.pdf?_ga=2.170908839.607070950.1539830458-435134776.1539830458)
 
 Majority Is Not Enough: Bitcoin Mining Is Vulnerable -- [[Arxiv]](https://arxiv.org/pdf/1311.0243.pdf%7C)
 
@@ -59,7 +59,7 @@ Understanding Ethereum via graph analysis -- [[IEEE]](https://ieeexplore.ieee.or
 
 ## TODO List
 
-Internet of Things in Industries: A Survey -- [[IEEE]](https://ieeexplore.ieee.org/document/6714496)[[Article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714496&tag=1)
+Internet of Things in Industries: A Survey -- [[IEEE]](https://ieeexplore.ieee.org/document/6714496] [[Article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714496&tag=1)
 
 A Survey on Demand Response Programs in Smart Grids: Pricing Methods and Optimization Algorithms -- [[IEEE]](https://ieeexplore.ieee.org/document/6861959/)
 
