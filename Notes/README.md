@@ -45,6 +45,8 @@ Bandwidth allocation in ad hoc networks: a price-based approach -- [[IEEE](https
 
 Formal Design and Analysis of a Gear Controller an Industrial Case Study using UPPAAL -- [[SpringerLink]](https://link.springer.com/chapter/10.1007/BFb0054178) [[Article]](https://link.springer.com/content/pdf/10.1007/BFb0054178.pdf)
 
+Detecting Ponzi Schemes on Ethereum: Towards Healthier Blockchain Technology -- [[ACM]](https://dl.acm.org/citation.cfm?id=3186046) [[Article]](https://www.researchgate.net/profile/Weili_Chen4/publication/324509423_Detecting_Ponzi_Schemes_on_Ethereum_Towards_Healthier_Blockchain_Technology/links/5b0a2183a6fdcc8c2532581e/Detecting-Ponzi-Schemes-on-Ethereum-Towards-Healthier-Blockchain-Technology.pdf) 
+
 
 ## TODO List
 
