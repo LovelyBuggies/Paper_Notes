@@ -58,7 +58,7 @@ A Survey on Demand Response Programs in Smart Grids: Pricing Methods and Optimiz
 
 Hierarchical auctions for network resource allocation -- [[Article]](https://www.ocf.berkeley.edu/~twy/docs/TaJa11gamenets.pdf)
 
-Virtualization of 5G Cellular Networks as a Hierarchical Combinatorial Auction -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/7348713) [[Article]](https://arxiv.org/pdf/1511.08256)
+Virtualization of 5G Cellular Networks as a Hierarchical Combinatorial Auction -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7348713) [[Article]](https://arxiv.org/pdf/1511.08256)
 
 
 
