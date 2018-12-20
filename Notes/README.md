@@ -59,7 +59,7 @@ Understanding Ethereum via graph analysis -- [[IEEE]](https://ieeexplore.ieee.or
 
 ## TODO List
 
-Internet of Things in Industries: A Survey -- [[IEEE]](https://ieeexplore.ieee.org/document/6714496] [[Article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714496&tag=1)
+Internet of Things in Industries: A Survey -- [[IEEE]](https://ieeexplore.ieee.org/document/6714496) [[Article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714496&tag=1)
 
 A Survey on Demand Response Programs in Smart Grids: Pricing Methods and Optimization Algorithms -- [[IEEE]](https://ieeexplore.ieee.org/document/6861959/)
 
