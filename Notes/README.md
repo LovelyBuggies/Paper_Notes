@@ -3,9 +3,7 @@
 
 Consortium Blockchain for Secure Energy Trading in Industrial Internet of Things -- [[Article](http://folk.uio.no/yanzhang/IEEETIIBlockchain2018.pdf)]
 
-Enabling Localized Peer-to-Peer Electricity 
-Trading Among Plug-in Hybrid Electric Vehicles 
-Using Consortium Blockchains -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7935397/) [[Article]](http://folk.uio.no/yanzhang/IEEETII2017Blockchain.pdf)
+Enabling Localized Peer-to-Peer Electricity Trading Among Plug-in Hybrid Electric Vehicles Using Consortium Blockchains -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7935397/) [[Article]](http://folk.uio.no/yanzhang/IEEETII2017Blockchain.pdf)
 
 Data Collection and Wireless Communication in Internet of Things (IoT) Using Economic Analysis and Pricing Models: A Survey -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7496795/) [[Article]](https://arxiv.org/pdf/1608.03475.pdf)
 
@@ -26,20 +24,20 @@ Energy replenishment using renewable and traditional energy resources for sustai
 
 Traffic and QoS Management in Wireless Multimedia Network pp 201-265 Multihop Wireless Networks -- [[Springer Link]](https://link.springer.com/chapter/10.1007%2F978-0-387-85573-8_5) [[Article]](https://s3.amazonaws.com/academia.edu.documents/40292284/Multihop_Wireless_Networks20151123-4913-18yxdl0.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1539485598&Signature=IC7oRlKYpx4QTYBmfrS8dRbdcGg%3D&response-content-disposition=inline%3B%20filename%3DMultihop_Wireless_Networks.pdf)
 
-Optimal Routing, Link Scheduling and Power Control in Multi-hop Wireless Networks -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/1208720/)][[Article](https://pdfs.semanticscholar.org/e80f/2f813ca707926dbc1955b741747b0dbf88f3.pdf)]
+Optimal Routing, Link Scheduling and Power Control in Multi-hop Wireless Networks -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/1208720/)[[Article]](https://pdfs.semanticscholar.org/e80f/2f813ca707926dbc1955b741747b0dbf88f3.pdf)
 
-An Overview of Internet of Vehicles -- [[Article](https://www.researchgate.net/profile/Shangguang_Wang/publication/273394866_An_Overview_of_Internet_of_Vehicles/links/55d6926908ae9d65948be3c8/An-Overview-of-Internet-of-Vehicles.pdf)]
+An Overview of Internet of Vehicles -- [[Article]](https://www.researchgate.net/profile/Shangguang_Wang/publication/273394866_An_Overview_of_Internet_of_Vehicles/links/55d6926908ae9d65948be3c8/An-Overview-of-Internet-of-Vehicles.pdf)
 
-“ Proof-of-Work ” Proves Not to Work version 0.2 -- [[Semantic Scholar]](https://www.semanticscholar.org/paper/%E2%80%9C-Proof-of-Work-%E2%80%9D-Proves-Not-to-Work-version-0-.-2-Laurie-Clayton/7a58abc92dbe41c9e5b3c7b0a358ab9096880f25)][[Article](https://pdfs.semanticscholar.org/e1d0/013c6f12c8f7414110babd8d3f952cbc0305.pdf?_ga=2.170908839.607070950.1539830458-435134776.1539830458)
+“ Proof-of-Work ” Proves Not to Work version 0.2 -- [[Semantic Scholar]](https://www.semanticscholar.org/paper/%E2%80%9C-Proof-of-Work-%E2%80%9D-Proves-Not-to-Work-version-0-.-2-Laurie-Clayton/7a58abc92dbe41c9e5b3c7b0a358ab9096880f25)[[Article]](https://pdfs.semanticscholar.org/e1d0/013c6f12c8f7414110babd8d3f952cbc0305.pdf?_ga=2.170908839.607070950.1539830458-435134776.1539830458)
 
-Majority Is Not Enough: Bitcoin Mining Is Vulnerable -- [[Arxiv](https://arxiv.org/pdf/1311.0243.pdf%7C)]
+Majority Is Not Enough: Bitcoin Mining Is Vulnerable -- [[Arxiv]](https://arxiv.org/pdf/1311.0243.pdf%7C)
 
 
 ## 2018-11
 
-CDMA/HDR: a bandwidth efficient high speed wireless data service for nomadic users -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/852034)][[Article](http://cs-www.cs.yale.edu/homes/yry/readings/wireless/wireless_readings/hdr_qualcomm.pdf)]
+CDMA/HDR: a bandwidth efficient high speed wireless data service for nomadic users -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/852034)][[Article](http://cs-www.cs.yale.edu/homes/yry/readings/wireless/wireless_readings/hdr_qualcomm.pdf)
 
-Bandwidth allocation in ad hoc networks: a price-based approach -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/1208917)]
+Bandwidth allocation in ad hoc networks: a price-based approach -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/1208917)
 
 ## 2018-12
 
