@@ -50,15 +50,15 @@ Understanding Ethereum via graph analysis -- [[IEEE]](https://ieeexplore.ieee.or
 
 ## TODO List
 
-Internet of Things in Industries: A Survey -- [[IEEE](https://ieeexplore.ieee.org/document/6714496)][[Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714496&tag=1)]
+Internet of Things in Industries: A Survey -- [[IEEE]](https://ieeexplore.ieee.org/document/6714496)[[Article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714496&tag=1)
 
-A Survey on Demand Response Programs in Smart Grids: Pricing Methods and Optimization Algorithms -- [[IEEE](https://ieeexplore.ieee.org/document/6861959/)]
+A Survey on Demand Response Programs in Smart Grids: Pricing Methods and Optimization Algorithms -- [[IEEE]](https://ieeexplore.ieee.org/document/6861959/)
 
-*Algorithmic Game Theory* Chap.13 -- [[Book](https://books.google.com.hk/books?hl=en&lr=&id=YCu2alSw0w8C&oi=fnd&pg=PR5&dq=algorithmic+game+theory&ots=aNANyRplCa&sig=EdVKqOuG7HarnhDz81j4QQUqDr8&redir_esc=y#v=onepage&q=algorithmic%20game%20theory&f=false)]
+*Algorithmic Game Theory* Chap.13 -- [[Book]](https://books.google.com.hk/books?hl=en&lr=&id=YCu2alSw0w8C&oi=fnd&pg=PR5&dq=algorithmic+game+theory&ots=aNANyRplCa&sig=EdVKqOuG7HarnhDz81j4QQUqDr8&redir_esc=y#v=onepage&q=algorithmic%20game%20theory&f=false)
 
-Hierarchical auctions for network resource allocation -- [[Article](https://www.ocf.berkeley.edu/~twy/docs/TaJa11gamenets.pdf)]
+Hierarchical auctions for network resource allocation -- [[Article]](https://www.ocf.berkeley.edu/~twy/docs/TaJa11gamenets.pdf)
 
-Virtualization of 5G Cellular Networks as a Hierarchical Combinatorial Auction -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/7348713)][[Article](https://arxiv.org/pdf/1511.08256)]
+Virtualization of 5G Cellular Networks as a Hierarchical Combinatorial Auction -- [[IEEE](https://ieeexplore.ieee.org/abstract/document/7348713) [[Article]](https://arxiv.org/pdf/1511.08256)
 
 
 
