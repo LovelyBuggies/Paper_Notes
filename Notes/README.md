@@ -40,7 +40,7 @@ Majority Is Not Enough: Bitcoin Mining Is Vulnerable -- [[Arxiv]](https://arxiv.
 
 ## 2018-11
 
-CDMA/HDR: a bandwidth efficient high speed wireless data service for nomadic users -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/852034)][[Article](http://cs-www.cs.yale.edu/homes/yry/readings/wireless/wireless_readings/hdr_qualcomm.pdf)
+CDMA/HDR: a bandwidth efficient high speed wireless data service for nomadic users -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/852034)[[Article](http://cs-www.cs.yale.edu/homes/yry/readings/wireless/wireless_readings/hdr_qualcomm.pdf)
 
 Bandwidth allocation in ad hoc networks: a price-based approach -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/1208917)
 
