@@ -1,3 +1,4 @@
+---
 
 ## 2018-09
 
@@ -8,6 +9,8 @@ Enabling Localized Peer-to-Peer Electricity Trading Among Plug-in Hybrid Electri
 Data Collection and Wireless Communication in Internet of Things (IoT) Using Economic Analysis and Pricing Models: A Survey -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7496795/) [[Article]](https://arxiv.org/pdf/1608.03475.pdf)
 
 Profit Maximization Mechanism and Data Management for Data Analytics Services -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/8326475/) [[Article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8326475)
+
+---
 
 
 ## 2018-10
@@ -32,12 +35,15 @@ An Overview of Internet of Vehicles -- [[Article]](https://www.researchgate.net/
 
 Majority Is Not Enough: Bitcoin Mining Is Vulnerable -- [[Arxiv]](https://arxiv.org/pdf/1311.0243.pdf%7C)
 
+---
 
 ## 2018-11
 
 CDMA/HDR: a bandwidth efficient high speed wireless data service for nomadic users -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/852034)][[Article](http://cs-www.cs.yale.edu/homes/yry/readings/wireless/wireless_readings/hdr_qualcomm.pdf)
 
 Bandwidth allocation in ad hoc networks: a price-based approach -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/1208917)
+
+---
 
 ## 2018-12
 
@@ -46,6 +52,8 @@ Formal Design and Analysis of a Gear Controller an Industrial Case Study using U
 Detecting Ponzi Schemes on Ethereum: Towards Healthier Blockchain Technology -- [[ACM]](https://dl.acm.org/citation.cfm?id=3186046) [[Article]](https://www.researchgate.net/profile/Weili_Chen4/publication/324509423_Detecting_Ponzi_Schemes_on_Ethereum_Towards_Healthier_Blockchain_Technology/links/5b0a2183a6fdcc8c2532581e/Detecting-Ponzi-Schemes-on-Ethereum-Towards-Healthier-Blockchain-Technology.pdf) 
 
 Understanding Ethereum via graph analysis -- [[IEEE]](https://ieeexplore.ieee.org/document/8486401) [[Article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8486401)
+
+---
 
 
 ## TODO List
@@ -60,9 +68,7 @@ Hierarchical auctions for network resource allocation -- [[Article]](https://www
 
 Virtualization of 5G Cellular Networks as a Hierarchical Combinatorial Auction -- [[IEEE]](https://ieeexplore.ieee.org/abstract/document/7348713) [[Article]](https://arxiv.org/pdf/1511.08256)
 
-
-
-
+---
 
 
 
