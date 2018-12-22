@@ -54,6 +54,8 @@ Detecting Ponzi Schemes on Ethereum: Towards Healthier Blockchain Technology -- 
 
 Understanding Ethereum via graph analysis -- [[IEEE]](https://ieeexplore.ieee.org/document/8486401) [[Article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8486401)
 
+Plasma: Scalable Autonomous Smart Contracts -- [[Article]](https://plasma.io/plasma.pdf)
+
 ---
 
 
