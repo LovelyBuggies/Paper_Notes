@@ -6,15 +6,25 @@
 
 
 
+
+
 ### 关键点
 
 - 
 
 
+
 ### 想法/问题
 
 - 这个文章主要讲的就是分布式以太坊。
-- 文章太长了，我目前只是了解了一下论文的基本架构和abstract、intro、conclusion以及中间section的一些重要部分。
+
+- 中文版：
+
+  -  [Plasma白皮书（一）](http://me.tryblockchain.org/blockchain-ethereum-plasma-whitepaper.html)
+  -  [Plasma白皮书（二）](http://me.tryblockchain.org/blockchain-ethereum-plasma-whitepaper-2.html)
+  -  [Plasma白皮书（三）](http://me.tryblockchain.org/ethereum-blockchain-plasma-whitepaper3.html)
+  -  [Plasma白皮书（四）](http://me.tryblockchain.org/blockchain-plasma-whitepaper-4.html)
+
 
 
 ### 未来工作
