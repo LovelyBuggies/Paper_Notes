@@ -26,7 +26,8 @@
   - **共识机制**——尝试构建一个和比特币的共识激励类似的机制
   - **UTXO提交位图**——保证在主链下的确定的状态转换，同时尽可能降低退出费用，允许在数据不可用或者其它Byzantine行为时可以退出。
 - **Externalized Multiparty Channels**
-  - 
+  - ![](https://ws2.sinaimg.cn/large/006tNbRwgy1fyfvae5ys0j318s0lutbt.jpg)
+  - Alice 很倒霉，她所在地Plasma 区块被证明是invalid blocks了。区块的创建者受到惩罚了。
 
 
 
