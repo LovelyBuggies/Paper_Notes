@@ -1,15 +1,24 @@
 ## Plasma: Scalable Autonomous Smart Contracts —— plasma 的白皮儿书
 
+---
+
+[TOC]
+
+---
+
+
 
 ### 概述
 
 **Plasma** 作为一种**以太坊扩容方案**，对以太坊主链可扩展性的提高通过将大量交易和计算**下放**到侧链来实现。Plasma本质上是一系列运行在以太坊主链上的智能合约，只需处理少量来自侧链的请求，*海量的交易和计算都在侧链上完成*。不同于以太坊主链目前使用的POW共识算法，侧链将使用**POS**等TPS**更高的共识机制**。因此侧链提供了可扩展性，而主链保证了安全性和去中心化。
 
+---
+
 
 
 ### 关键点
 
-#### Plasma
+#### Plasma 
 
 - Plasma **架构**：
   - ![](https://ws4.sinaimg.cn/large/006tNbRwgy1fyfuvbvgzmj313i0dc0u8.jpg)
@@ -26,30 +35,119 @@
   - **共识机制**——尝试构建一个和比特币的共识激励类似的机制
   - **UTXO提交位图**——保证在主链下的确定的状态转换，同时尽可能降低退出费用，允许在数据不可用或者其它Byzantine行为时可以退出。
 - **Externalized Multiparty Channels**
-  - ![](https://ws2.sinaimg.cn/large/006tNbRwgy1fyfvae5ys0j318s0lutbt.jpg)
-  - Alice 很倒霉，她所在地Plasma 区块被证明是invalid blocks了。区块的创建者受到惩罚了。
+  - ![](https://ws2.sinaimg.cn/large/006tNbRwgy1fyfvae5ys0j318s0lutbt.jpg) Alice 的1 以太币被Plasma的一个区块捕捉，送到了根链。
+  - ![](https://ws4.sinaimg.cn/large/006tNbRwgy1fygrss7j4mj31780jywhh.jpg) 区块 4 被检查出有欺骗了，因此 Alice 的钱被直接提交到了主链上。
+- **BC in BC**
+  - ![](https://ws1.sinaimg.cn/large/006tNbRwly1fygrvoh3dtj30u00vzmzn.jpg) 实际上往往是层级链中链。
+  - ![](https://ws1.sinaimg.cn/large/006tNbRwly1fygrwwelu4j315v0u0gqg.jpg)*区块**转移图**：如图为Plasma的层级排布。参与者可以集体将其资金到其他链上，以免其父链是一个欺诈链。当出现攻击行为的时候，子区块的提交被广播至父链或者根链。*
+- Plasma 中的 **P**roof **o**f **S**take
+  - 当人们发现一个区块时，大家也许会觉得他是最长的那条链，但也不是非常确定它是不是最长的。为保证它是最长的，他们附加自己的块并广播给网络中的参与者，来增大它的机率。**区块扣留攻击**在这种机制中的问题被无限放大。
+  - 允许权益所有者在主链或父Plasma链中发布一个新区块的提交哈希来减轻这个问题。
+    - 验证者仅会在他们完全验证过的节点上建新的区块，为了鼓励最大化的信息共享，他们可以并行创建区块。
+    - 设计了一个验证者激励，来让最近100个块与他们的当前的权益成正比（比如，如果一个节点的权益占3成，那么过去的100个块也需要占3成）。
+    - 超出的费用将会进入一个池在将来支付费用。在每个块里存在一个包含最近的100个块（和一个nonce）的提交。
+    - 正确的链将是总权重最高的链，一段时间后整个链将会确定下来（finalize）。
+  - ![](https://ws2.sinaimg.cn/large/006tNbRwgy1fygsd3yb5ej310c0eqq4h.jpg)Alice Bob和Carol 权重相同，他们（扣留区块组织）谋划着建立一个循环结构以获得最大的回报。这些承诺提交给父/根链。链提示依赖于在n个时间段内块的正确分布所得到的最大权重得分(蓝色是当前候选链提示，红色是孤立的)。次优链会将多余的费用放入池中，以便将来验证器的正确性超过某个阈值。n个周期后，蓝色链末端就完成了。
+  - 这将鼓励大家参与进来，复制Nakamoto共识中的51%攻击假设。当出现一个链被区块扣留攻击或者其它的拜占庭行为，非拜占庭的参与者在父或主链进行一个批量的取款。如果最高的Plasma链的押金是用代币的形式，那么非常可能的，这个代币的价值将因为大量的退出而贬值。
+- **MapReduce**
+  - ![](https://ws1.sinaimg.cn/large/006tNbRwgy1fygsj73khmj317s0mcq7g.jpg) 左侧蓝色虚线是Plasma从父节点传递到子节点的消息。子节点必须在n个节点内提交到父节点，否则链将暂停。向子链通过数据分发工作，子链提交工作证明。上图中，第三级的子节点完成这些计算，并返回一个字典表。结果字典表会做为提交的一部分被返回回来，字典表在子链中被组合并提交到父节点，最终完成一个全局的字典。这使在大规模情况下强制计算执行成为可能。
+  - ![](https://ws1.sinaimg.cn/large/006tNbRwgy1fygsl3tbp5j31100pcwgy.jpg) 节点仅仅需要关注那些它希望执行的数据。如果经济行为或者计算发生在其它的Plasma链上，它不需要执行灰色部分，它可以把所有其它链整体作为一个第三方，只需要关注影响到自己提交的链。
 
 
+
+#### 栈、智能合约的设计
+
+- ![](https://ws3.sinaimg.cn/large/006tNbRwly1fygspzyd6ej30si0kgwfo.jpg) 最底层是主区块链，是合约和支付的判决层，合约本身在主链上。Plasma链上包含了当前账本的状态，可以在主链上清算和赎回（如果存在欺诈将允许资金的赎回）。Plasma提供了一种链嵌套的结构，实现资金的可扩容的存取。闪电网络又基于其上，支持即时支付。 
+
+
+
+#### 相关工作
+
+- *暂时不看，不算重要*
+
+
+
+#### 多方链状态
+
+- 欺诈证明 
+  - ![](https://ws4.sinaimg.cn/large/006tNbRwly1fygujt4d69j30z60aet9q.jpg) 区块4通过前一个块的数据和第4个块中的Merkel证明是欺诈的。
+  - ![](https://ws1.sinaimg.cn/large/006tNbRwgy1fygulpljioj30xk0g2myr.jpg) Alice有所有区块的数据，所以在主链上提交了一个欺诈证明。第四个区块从而变得无效并回滚。第4个区块的提交者失去了在智能合约中的押金从而得到了惩罚。当前的区块是区块3（蓝色）。在某些设置的时间以后，区块将确定下来。人们应该通过完整的校验区块，来在没有被证明是欺诈的区块上建块。
+- 存款
+  - ![](https://ws1.sinaimg.cn/large/006tNbRwly1fyguo43r42j30t80f8dgd.jpg) Alice有一个1 ETH的账户。她想将之发送到子Plasma链。她将它发送到Plasma合约。步骤如下：
+    1. 将货币或代币发送到主链的Plasma合约。
+    2. Plasma区块链引入了一个即将到来的交易证明。
+    3. 存款者在子Plasma链上签名一个交易，激活交易。
+  - ![](https://ws1.sinaimg.cn/large/006tNbRwgy1fyguqqczywj30qm0f4mxz.jpg) Alice现在在Plasma区块链中有1ETH。资金由主链上的智能合约持有，但账本记录在某个特定的Plasma区块链上。
+- 状态转换
+  1. Alice希望在Plasma链上转移他的资金给Bob（不需要将完整的记录提交到区块链上）。她创建了一个交易，在Plasma链上花费她的支出、签名，广播这个交易。
+  2. 这个交易被Plasma链的验证者校验后，头部的信息会作为区块的一部分放入父Plasma链或者主链，最终会被提交并打包到主链中。
+  3. Alice和Bob观察到了这个交易，签名确认他们看到了这个交易和区块。确认需要签名同时被包含进另一个Plasma区块中。
+- 取款
+  - 一般取款
+    1. 一个签名的取款交易被提交到根链或父Plasma链。
+    2. 存在一个预定义超时周期用于调解纠纷。
+    3. 存在第二个延迟来等待任何由较低的区块确认高度的取款请求。
+    4. （如果取款是正常行为）取款者可以在根链或父链上赎回资金。
+
+  - 快速取款
+
+    - 快速取款与简单取款的构建方式类似，但资金会发送到一个合约以进行原子交换（atomic swap）。根/父链上被交换的资金，有一个资金的低时间锁（low timelock for funds）和退出Plasma链的高时间锁（high timelock）。
+
+    1. Alice 愿付出时间价值（time-value）获得快速取款。流动性供应商提供这个服务并与Alice协调一致在根链上进行一个取款。
+    2. 资金被锁定在Plasma特定输出的某个合约上。
+    3. 双方广播一个在Plasma链上的交易。
+    4. 合约的条款是如果确定，那么支付就可以在Plasma链上进行；反之，Alice赎回自己的资金。
+    5. 上述Plasma块确定后，Larrry创建了一个链上合约，向Alice收取服务收费。
+
+  - 大量取款
+
+    - Plasma依赖于一个事实，需要用户通过区块扣留来检测拜占庭行为，用户也有责任及时的退出不正确的Plasma链。在主链上探测某个区块是否处于区块扣留的状态是不可能的，对于非常大的区块和状态转换是十分昂贵的。批量退出（mass exit）保证了Plasma链的Byzantine行为在某个时间和链暂停期间，不会影响大家的资金。
+
+    1. Alice与其它人协调一致以实现在Plasma链上的批量退出。
+    2. 退出的执行者协调资金要发送到的目标链，且自动承诺承认资金在批量退出后，在新链上的资金可用性。
+    3. 退出的执行者验证了到数据还可用时的链数据。
+    4. 用户在下载所有签名后对这个大量取款再签一次名。
+    5. 退出的执行者然后会关注当前是否有其它退出交易，同时移除那些可能的重复，然后签名这个退出交易，广播交易到根链或者父Plasma链。
+    6. 如果出现重复的取款，退出的执行者可以一个较短的宽限期内更新位图和余额。
+    7. 任何网络中的参与者可以通过DMET挑战MEIT中的数据。
+    8. 如果没有挑战，那么在前述的MEIT的确定时间后，用户将收到他们的资金。
+
+
+
+### 其他部分
+
+*Section 6之后是知识细化，暂时略过。*
+
+
+
+---
 
 ### 想法/问题
 
 - 这个文章主要讲的就是分布式以太坊。
-
 - 中文版：
 
   -  [Plasma白皮书（一）](http://me.tryblockchain.org/blockchain-ethereum-plasma-whitepaper.html)
   -  [Plasma白皮书（二）](http://me.tryblockchain.org/blockchain-ethereum-plasma-whitepaper-2.html)
   -  [Plasma白皮书（三）](http://me.tryblockchain.org/ethereum-blockchain-plasma-whitepaper3.html)
   -  [Plasma白皮书（四）](http://me.tryblockchain.org/blockchain-plasma-whitepaper-4.html)
+- PoS 部分只说了区块扣留问题，没给解决办法啊？
+- 文章结构类似于总分（*Section II 是总，后面都是各个部分的补充*）
 
 
+
+---
 
 ### 未来工作
 
-- plasma大名鼎鼎，以后要尝试深入了解一下。
-  
+- plasma大名鼎鼎，以后要尝试应用一下。
+- 这个团队真的是厉害了。
+- 这个系统上的智能合约得多难写！！！
+- 面向大众很不友好啊！
 
 
+
+---
 
 
 
