@@ -62,6 +62,8 @@ Understanding Ethereum via graph analysis -- [[IEEE]](https://ieeexplore.ieee.or
 
 Plasma: Scalable Autonomous Smart Contracts -- [[Article]](https://plasma.io/plasma.pdf)
 
+The Road to Scalable Blockchain Designs -- [[Article]](https://sheharbano.com/assets/publications/usenix_login_2017.pdf)
+
 
 
 ---
