@@ -1,15 +1,11 @@
 # Papernotes
 
-## Introduction
-
-这个库是我的论文阅读笔记，主要是参考了[repo1](https://github.com/dennybritz/deeplearning-papernotes)和[repo2](https://github.com/xwzhong/papernote)的思想，把论文的阅读总结简要地写下来。
-
 
 ## Introduction
 
-为了提升阅读论文的效率，我参考了[知乎——看paper用什么方式做笔记最有效率](https://www.zhihu.com/question/32147198)一个回答：
+这个库是我的论文阅读笔记，把论文的阅读总结简要地写下来。为了提升阅读论文的效率，我参考了[看paper用什么方式做笔记最有效率](https://www.zhihu.com/question/32147198)一个回答：
 
-![知乎截图](https://i.postimg.cc/ncrdpt0d/Snip20180917_13.png)
+![](https://ws1.sinaimg.cn/large/006tNbRwly1fypouuip2cj30u00wb7id.jpg)
 
 **决定建立这个repo，来保证高效阅读论文，并且找个方式激励、督促自己多读paper。**
 
@@ -23,7 +19,7 @@
 * 精力被平时课程冲散；
 * 心思没有全用在实验室。
 
-考虑到现阶段无法逃避那些不可避免的平时课程，以及考虑到我还有很多语言考试需要处理，我只能通过尽可能多读论文来增加实验室科研的效率。
+考虑到现阶段无法逃避那些不可避免的平时课程，以及考虑到我还有很多其他事务要处理，我只能通过尽可能多读论文来增加实验室科研的效率。
 
 ### Papers
 
@@ -65,10 +61,6 @@
 ### Notes/README.md
 
 按日期索引文件。
-
-### ～ Notes/category.md （日后建立）
-
-按种类索引文件。
 
 
 ## Conclusion
