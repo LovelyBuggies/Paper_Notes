@@ -59,7 +59,7 @@ The most significant novelty in the paper is that the authors propose META-DATAS
 
 Their approach is twofold: 
 
-1. changing the data and 
+1. changing the data
 
 2. changing the formulation of the task.
 
