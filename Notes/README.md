@@ -74,6 +74,16 @@ Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples -- [
 
 
 
+---
+
+## 2019-04
+
+Improving image classifiers for small datasets by learning rate adaptations -- [[Arxiv]](https://arxiv.org/abs/1903.10726)  [[Article]](https://arxiv.org/pdf/1903.10726)
+
+
+
+---
+
 ## TODO List
 
 Internet of Things in Industries: A Survey -- [[IEEE]](https://ieeexplore.ieee.org/document/6714496) [[Article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714496&tag=1)
