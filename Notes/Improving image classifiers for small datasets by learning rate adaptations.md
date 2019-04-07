@@ -4,20 +4,6 @@
 
 ---
 
-### About
-
-**Paper title**: Improving image classifiers for small datasets by learning rate adaptations
-
-**Author**: Sourav Mishra, Toshihiko Yamasaki, Hideaki Imaizumi.
-
-**Journal**: arXiv:1903.10726v2
-
-**Year**: 2019
-
-
-
----
-
 ### Summary
 
 The paper introduces an effective combination of existing techniques to improve the performance of the classifier in terms of accuracy and training time. By dynamically adjusting the learning rate, they achieved two to ten times the near state-of-the-art communication acceleration on different model architectures. Finding it particularly useful in small datasets of relatively simple architecture where machine reasoning is less reliable, they further verified the method, demonstrating its feasibility by implementing it on an unbalanced diagnostic image corpus. In conclusion, although existing some defects, this method shares a great amounts of signifanct merits, which paves the way for further reaserches for dermatological diseases in the realm of medication.
