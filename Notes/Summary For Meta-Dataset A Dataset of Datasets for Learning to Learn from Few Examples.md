@@ -2,18 +2,6 @@
 
 ---
 
-### About 
-
-**Paper title**: Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples
-
-**Author**: Eleni Triantafillou, Tyler Zhu, Vincent Dumoulin, et.al.
-
-**Journal**: [arXiv:1903.03096](https://arxiv.org/abs/1903.03096) [cs.LG]
-
-**Year**: 2019
-
----
-
 ### Highlights
 
 Few-shot classification refers to learning a classifier for new classes given only a few examples of them. While a plethora of models have emerged to tackle this recently, The paper finds the current procedure and datasets that are used to systematically assess progress in this task lacking. To address this, The paper proposes META-DATASET: a new benchmark for training and evaluating few-shot classifiers that is large-scale, consists of multiple datasets, and presents more natural and realistic tasks. The aim is to measure the ability of state-of-the-art models to leverage diverse sources of data to achieve higher generalization, and to evaluate that generalization ability in a more challenging and realistic setting. The paper additionally measures robustness to variations in the number of available examples and the number of classes.
