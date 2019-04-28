@@ -25,8 +25,7 @@
   - [效果大全](https://junyanz.github.io/CycleGAN/)
   - [GitHub仓库](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
   - [GAN zoo](https://github.com/hindupuravinash/the-gan-zoo)
-
-
+  - 一个[好库 😼](https://github.com/eriklindernoren/PyTorch-GAN#gan)
 
 ---
 
