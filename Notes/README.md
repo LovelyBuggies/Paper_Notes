@@ -82,9 +82,9 @@ Improving image classifiers for small datasets by learning rate adaptations -- [
 
 On Cyber Risk Management of Blockchain Networks: A Game Theoretic Approach
 
-Generative Adversarial Nets -- -- [[Arxiv]](<https://arxiv.org/abs/1406.2661>)  [[Article]](<https://arxiv.org/pdf/1406.2661.pdf>)
+Generative Adversarial Nets -- -- [[Arxiv]](https://arxiv.org/abs/1406.2661)  [[Article]](https://arxiv.org/pdf/1406.2661.pdf)
 
-
+Image-to-Image Translation with Conditional Adversarial Networks -- [[ICCV]](http://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)  [[Article]](https://arxiv.org/pdf/1611.07004.pdf)
 
 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks -- [[ICCV]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)  [[Article]](https://arxiv.org/pdf/1703.10593.pdf)
 
