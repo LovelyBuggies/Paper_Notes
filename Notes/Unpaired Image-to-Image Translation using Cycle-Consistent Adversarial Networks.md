@@ -1,9 +1,14 @@
 ## Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks 
 
+---
 
 ### 概述
 
 主要就是用 **Cycle-Consistent 融合 GAN** 的方法解决 **Image-to-Image** （风格迁移）问题。这个又叫 Cycle-GAN。
+
+
+
+---
 
 
 ### 关键点
@@ -22,12 +27,17 @@
   - [GAN zoo](https://github.com/hindupuravinash/the-gan-zoo)
 
 
+
+---
+
 ### 未来工作
 
 - 这个论文的总结主要体现在我的课程项目报告 [Cycle-Consistent Adversarial Network picks up Monet’s Paintbrush](https://www.overleaf.com/read/ytwtvbszxzcv) 中。
 - 从GAN 到Pix2Pix 到Cycle-GAN， 看看下一个里程碑是什么。
 
 
+
+---
 
 
 
