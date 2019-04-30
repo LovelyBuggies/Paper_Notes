@@ -88,6 +88,8 @@ Image-to-Image Translation with Conditional Adversarial Networks -- [[ICCV]](htt
 
 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks -- [[ICCV]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)  [[Article]](https://arxiv.org/pdf/1703.10593.pdf)
 
+Very Deep Convolutional Network for Large-Scale Image Recognition -- [[ICCV]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)  [[Article]](https://arxiv.org/pdf/1703.10593.pdf)
+
 
 
 ---
