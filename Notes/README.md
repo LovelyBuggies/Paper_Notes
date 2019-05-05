@@ -88,7 +88,7 @@ Image-to-Image Translation with Conditional Adversarial Networks (**pix2pixGAN**
 
 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (**Cycle-GAN**) -- [[ICCV]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)  [[Article]](https://arxiv.org/pdf/1703.10593.pdf)
 
-Very Deep Convolutional Network for Large-Scale Image Recognition (**VggNet**) -- [[ICCV]](http://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)  [[Article]](https://arxiv.org/pdf/1703.10593.pdf)
+Very Deep Convolutional Network for Large-Scale Image Recognition (**VggNet**) -- [[arxiv]](https://arxiv.org/abs/1409.1556)  [[Article]](https://arxiv.org/pdf/1409.1556.pdf)
 
 
 
