@@ -96,7 +96,7 @@ Very Deep Convolutional Network for Large-Scale Image Recognition (**VggNet**) -
 
 ## 2019-05
 
-Internet of Vehicles in Big Data Era -- 
+Internet of Vehicles in Big Data Era — [[IEEE](https://ieeexplore.ieee.org/abstract/document/8232587/)] [[Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8232587)] 
 
 
 
