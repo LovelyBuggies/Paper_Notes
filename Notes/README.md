@@ -102,6 +102,14 @@ Internet of Vehicles in Big Data Era — [[IEEE](https://ieeexplore.ieee.org/abs
 
 ---
 
+## 2019-06
+
+Internet of Vehicles in Big Data Era — [[IEEE](https://ieeexplore.ieee.org/abstract/document/8232587/)] [[Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8232587)] 
+
+
+
+---
+
 ## TODO List
 
 Internet of Things in Industries: A Survey -- [[IEEE]](https://ieeexplore.ieee.org/document/6714496) [[Article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714496&tag=1)
