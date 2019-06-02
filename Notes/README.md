@@ -104,7 +104,7 @@ Internet of Vehicles in Big Data Era — [[IEEE](https://ieeexplore.ieee.org/abs
 
 ## 2019-06
 
-Internet of Vehicles in Big Data Era — [[IEEE](https://ieeexplore.ieee.org/abstract/document/8232587/)] [[Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8232587)] 
+Data Synthesis based on Generative Adversarial Networks — [[ACM](https://dl.acm.org/citation.cfm?id=3242929)] [[Article](https://arxiv.org/pdf/1806.03384.pdf)] 
 
 
 
