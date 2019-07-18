@@ -110,6 +110,16 @@ Data Synthesis based on Generative Adversarial Networks — [[ACM](https://dl.ac
 
 ---
 
+## 2019-07
+
+
+
+
+
+
+
+---
+
 ## TODO List
 
 Internet of Things in Industries: A Survey -- [[IEEE]](https://ieeexplore.ieee.org/document/6714496) [[Article]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714496&tag=1)
